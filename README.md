@@ -13,8 +13,8 @@ EventDrivenDemo is a Spring Boot application that demonstrates event-driven arch
 
 2. Clone the project repository by running the following command:
    ```bash
-   git clone [<repository-url>](https://github.com/iammahesh123/Task-Management-System-using-microservices.git)
-   cd Task-Management-System-using-microservices
+   git clone [<repository-url>](https://github.com/iammahesh123/RabbitMQ-demo.git)
+   cd EventDrivenDemo
 
 ### Step 2: Run Eureka Server
 
