@@ -22,9 +22,6 @@ EventDrivenDemo is a Spring Boot application that demonstrates event-driven arch
    ```bash
    cd EventDrivenDemo
    mvn clean install
-3.Open your web browser and visit http://localhost:8081 to access the Eureka Server dashboard.
-## Run the application:
-
 2. Run the application using below command:
    ```bash
    mvn spring-boot:run
